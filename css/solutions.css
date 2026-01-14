@@ -65,3 +65,16 @@ button:hover {
     text-align: center;
     font-size: x-small;
 }
+
+/*11-12th TASK*/
+
+.nav-footer a:hover {
+    color: blue;
+    background-color: #0e1821;
+}
+
+[href="#home"] {
+    color: blue;
+    background-color: #0e1821;
+}
+
