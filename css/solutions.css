@@ -1,0 +1,23 @@
+/*1th TASK*/
+
+/*
+.stats-grid:first-child {
+    padding-top: 100px;
+    position: relative;
+}
+
+.stat-number:first-child::before {
+    content: "🔥";
+    font-size: 30px;
+    top: 20%;
+    left: 50%;  
+    position: absolute;
+}*/
+
+/*5th TASK*/
+
+.workout-section .workout-plan:nth-child(3) {
+    background-color: #fff8ba;
+    border-left: 5px solid #f4a728;
+}
+
