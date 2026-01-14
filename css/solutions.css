@@ -41,7 +41,12 @@
     outline: none;
 }
 
-
+/*9th TASK*/
+button:hover {
+    background-color: red;
+    box-shadow: 0px 0px 10px blue;
+    translate: 0px -2px;
+}
 
 /*10th TASK*/
 
