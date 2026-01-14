@@ -6,6 +6,21 @@
     font-size: xx-large;
 }
 
+/*2th Task*/
+.stats-grid:last-child  {
+ background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+ 
+
+}
+
+.stats-grid:last-child * {
+    color: white;
+}
+
+
+
+
+
 /*3th TASK*/
 
 .stats-container .stats-grid:hover {
@@ -13,7 +28,6 @@
     translate: 0px -5px;
 }
 
-   
 
 
 /*4th TASK*/
