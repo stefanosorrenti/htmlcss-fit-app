@@ -16,7 +16,7 @@
 
 /*4th TASK*/
 
-.workout-section .exercise-item:nth-child(3) {
+.workout-section article:nth-child(3) {
     background-color: #fff8ba;
     border-left: 5px solid #f4a728;
 }
