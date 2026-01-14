@@ -14,10 +14,22 @@
     position: absolute;
 }*/
 
-/*5th TASK*/
+/*4th TASK*/
 
 .workout-section .workout-plan:nth-child(3) {
     background-color: #fff8ba;
     border-left: 5px solid #f4a728;
 }
 
+/*5th TASK*/
+.exercise-item:first-child {
+    background-color: #c6f5d3;
+    border-color: green;
+}
+
+.exercise-item:last-child  {
+    background-color: #c6f5d3;
+    border-color: green;
+
+
+}
