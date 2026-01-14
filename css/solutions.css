@@ -1,18 +1,10 @@
 /*1th TASK*/
 
-/*
-.stats-grid:first-child {
-    padding-top: 100px;
-    position: relative;
-}
-
-.stat-number:first-child::before {
+.stats-grid:first-child .stat-number::before {
     content: "🔥";
-    font-size: 30px;
-    top: 20%;
-    left: 50%;  
-    position: absolute;
-}*/
+    display:block;
+    font-size: xx-large;
+}
 
 /*3th TASK*/
 
