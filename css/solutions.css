@@ -81,3 +81,31 @@ button:hover {
     background-color: #0e1821;
 }
 
+/*13th TASK*/
+
+
+
+.quote-box > p::before {
+    content: ' \0022';
+    color: #ffffff7d;;
+    position: absolute;
+    top: 0%;
+    left: 2%;
+    font-size: xxx-large;
+}
+
+    
+
+
+
+.quote-box > p::after {
+    content: ' \0022';
+    color: #ffffff7d;
+    position: absolute;
+    font-size: xxx-large;
+    right: 21%;
+    bottom: -7%;
+}
+
+
+
