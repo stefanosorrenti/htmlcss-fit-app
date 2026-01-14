@@ -14,6 +14,16 @@
     position: absolute;
 }*/
 
+/*3th TASK*/
+
+.stats-container .stats-grid:hover {
+    box-shadow: 0px 0px 10px black;
+    translate: 0px -5px;
+}
+
+   
+
+
 /*4th TASK*/
 
 .workout-section article:nth-child(3) {
