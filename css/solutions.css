@@ -16,7 +16,7 @@
 
 /*4th TASK*/
 
-.workout-section .workout-plan:nth-child(3) {
+.workout-section .exercise-item:nth-child(3) {
     background-color: #fff8ba;
     border-left: 5px solid #f4a728;
 }
@@ -32,4 +32,23 @@
     border-color: green;
 
 
+}
+
+/*10th TASK*/
+
+
+.progress-bar {
+    position: relative;
+
+}
+
+.progress-fill::after {
+    content: "65%";
+    color: white;
+    content: "65%";
+    position: absolute;
+    top: -40%;
+    left: 85%;
+    text-align: center;
+    font-size: x-small;
 }
