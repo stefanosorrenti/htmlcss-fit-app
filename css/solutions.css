@@ -24,17 +24,18 @@
 }
 
 /*5th TASK*/
-.exercise-item:first-child {
+.exercise-item:first-child, .exercise-item:last-child  {
     background-color: #c6f5d3;
     border-color: green;
 }
 
-.exercise-item:last-child  {
-    background-color: #c6f5d3;
-    border-color: green;
 
-
+/*6th TASK*/
+.exercise-item:nth-child(even)::before {
+    content: "⚡";
 }
+
+
 
 /*7-8th TASK*/
 .goals-container input:focus, select:focus {
